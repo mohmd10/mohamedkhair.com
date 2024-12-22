@@ -1,6 +1,6 @@
 # Mohamed Khair - Personal Portfolio
 
-[![Mohamed Khair](https://mohamedkhair.com/assets/images/logo.png)](https://mohamedkhair.com/)
+[![Mohamed Khair]([https://mohamedkhair.com/assets/images/logo.png](https://github.com/mohmd10/mohamedkhair.com/blob/main/My%20Portfolio/assets/images/profile.jpg))](https://mohamedkhair.com/)
 
 ## Overview
 
